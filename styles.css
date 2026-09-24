@@ -295,6 +295,8 @@ em { font-style: italic; color: var(--gold-2); }
 .visit__grid { display: grid; grid-template-columns: 1fr 1.3fr; gap: 60px; align-items: center; }
 .visit address { font-style: normal; font-size: 17px; line-height: 1.9; margin-bottom: 32px; }
 .visit address strong { color: var(--cream); font-weight: 500; }
+.visit__phone { display: inline-block; margin-top: 10px; font-family: var(--serif); font-size: 24px; color: var(--gold-2); }
+.footer p a { color: var(--gold); }
 .visit__actions { display: flex; flex-wrap: wrap; gap: 14px; }
 .visit__map { border-radius: var(--radius); overflow: hidden; border: 1px solid var(--line); aspect-ratio: 16/11; }
 .visit__map iframe { width: 100%; height: 100%; border: 0; filter: grayscale(.4) invert(.9) hue-rotate(180deg) contrast(.9); }

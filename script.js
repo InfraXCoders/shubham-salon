@@ -2,8 +2,7 @@
 // NS Unisex Hair Studio 1929 — site script
 // ==========================================================
 
-// TODO: replace with the salon's WhatsApp number (country code, digits only), e.g. "919876543210"
-const SALON_PHONE = "910000000000";
+const SALON_PHONE = "919988661915";
 
 // Nav: shrink on scroll + mobile toggle
 const nav = document.getElementById("nav");
